@@ -57,6 +57,7 @@
 ### Fixed (workflow)
 
 * **FIX** fixed optimisation tolerance of hydro power plants from xtol to xatol (#266).
+* **FIX** fixed lib folder linking when moving the workflow folder.
 
 ## 1.1.0 (2021-12-22)
 
